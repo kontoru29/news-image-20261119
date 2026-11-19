@@ -1,5 +1,9 @@
 # One Day of World News: Thursday 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/kontoru29/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/kontoru29/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 An entry for the make.fun bounty [news-image-20261119](https://make.fun/bounty/news-image-20261119).
 
 The entry is a single image that sums up the world news of Thursday 19 November 2026. It names the day it covers and shows six of the day's biggest stories from around the world, across politics, science, weather, faith and entertainment, so a viewer who missed the day can tell what happened from the image alone.
